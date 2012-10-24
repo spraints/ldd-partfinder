@@ -35,4 +35,4 @@ for LDD Direct to function following LDD state/theme is required :
 
   * if you want to copy a itemnos (official colored part with number) the LDD program should be in LDD mode/theme.
 
-You can change the LDD mode/theme at all time in the LDD View menu - Themes.
+You can change the LDD mode/theme at all time in the LDD View menu - New themes.
